@@ -1,0 +1,14 @@
+tcc:
+  empresa: 'BlackFeather'
+  site: 'Sincrow'
+
+employees:
+  devs:
+    - 'Nicollas Marques'
+    - 'Eduardo Lins'
+    - 'Sarah Gonçalves'
+    - 'Ryan Calpacci'
+    - 'Jovens Laloi'
+  documenters:
+    - 'Arthur Luis'
+    - 'Gustavo Santos'
